@@ -137,7 +137,7 @@ Customers ask why the model said something wrong or forgot something. We need en
 - [Agentic AI vs Generative AI](https://agilefever.com/agentic-ai-vs-generative-ai/)
 - Prompt structure, few-shot, and chain-of-thought
 - [Prompt engineering vs context engineering](https://agilefever.com/prompt-engineering-vs-context-engineering/)
-- Context windows, compression, and budgeting
+- [Context windows, compression, and budgeting](https://agilefever.com/prompt-engineering-vs-context-engineering/)
 - [Comparing ChatGPT, Gemini, Claude, and others](https://agilefever.com/chatgpt-vs-grok-vs-gemini-vs-claude-vs-perplexity/)
 - Choosing a model for a customer's constraints
 
